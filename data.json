@@ -1,0 +1,17 @@
+{
+  "title": "Allrounder",
+  "source": {
+    "type": "dash",
+    "url": "https://ABGQJFUAAAAAAAAMAGMNW3PEHGUEX.cf3a3b91f7a2490193568961bdbe7b6f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhc1i3o89r/out/v1/cfb494be02bb42d88d9a5da4d7454280/cenc.mpd"
+  },
+  "drm": {
+    "clearkey": {
+      "keys": [
+        {
+          "keyId": "bc1234c952a55a08b1a1997de4ab252c",
+          "key": "32f9d6805671929265a15f47dbae0f9b"
+        }
+      ]
+    }
+  }
+}
