@@ -2,14 +2,14 @@
   "title": "Allrounder",
   "source": {
     "type": "dash",
-    "url": "https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd"
+    "url": "https://ABGQJFUAAAAAAAAMPWOCQN4C6H64O.888717b2c59b4c89a17c17dcfe40a1f3.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/prauteb8nh/out/v1/a234d59d66c5444dbd0f13abfdc1038a/cenc.mpd"
   },
   "drm": {
     "clearkey": {
       "keys": [
         {
-          "keyId": "7641daa5bacfbb61936c40a221c9e78e",
-          "key": "5732dd242f28338e909dc06cb1a1e5a2"
+          "keyId": "c5baabaaf817abc314702e6fc615571f",
+          "key": "35f6b737c5b2c3d657a37b2bff894916"
         }
       ]
     }
