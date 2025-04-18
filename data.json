@@ -2,14 +2,14 @@
   "title": "Allrounder",
   "source": {
     "type": "dash",
-    "url": "https://ABGQJFUAAAAAAAAMPWOCQN4C6H64O.888717b2c59b4c89a17c17dcfe40a1f3.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/prauteb8nh/out/v1/a234d59d66c5444dbd0f13abfdc1038a/cenc.mpd"
+    "url": "https://ABGQJFUAAAAAAAAMAS3RJSZ6PDH4F.7732b711da9b44598471b4dc01c45df2.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u6nmttyqps/out/v1/70af4be90c6543278fb36d4a29612f51/cenc.mpd"
   },
   "drm": {
     "clearkey": {
       "keys": [
         {
-          "keyId": "c5baabaaf817abc314702e6fc615571f",
-          "key": "35f6b737c5b2c3d657a37b2bff894916"
+          "keyId": "be259db425af58d03c015dc5c4fa8507",
+          "key": "27a22a0c9948bce768869d8e9c92fc65"
         }
       ]
     }
